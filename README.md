@@ -67,6 +67,6 @@ I am open to collaboration and ready to participate in exciting projects that wi
 </table>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=wierza&label=Profile%20views&color=0e75b6&style=flat" alt="Dawid-Wierzycki" />
+  <img src="https://komarev.com/ghpvc/?username=wierza&label=Profile%20views&color=0e75b6&style=flat" alt="wierza" />
 </p>
 
