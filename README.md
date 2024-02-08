@@ -1,7 +1,6 @@
 # Dawid Wierzycki - Junior Fullstack Developer
 
-[![Send email(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dawid@wierzycki.pl) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dawid-wierzycki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dawid-wierzycki)
 
 ## About me
 
@@ -49,4 +48,25 @@ I am open to collaboration and ready to participate in exciting projects that wi
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![AJAX](https://img.shields.io/badge/AJAX-2D2D2D?style=for-the-badge&logo=ajax&logoColor=white)](https://www.w3schools.com/js/js_ajax_intro.asp)
 [![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=wierza&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" 
+        alt="GitHub Stats" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wierza&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wierza&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=wierza&label=Profile%20views&color=0e75b6&style=flat" alt="Dawid-Wierzycki" />
+</p>
 
