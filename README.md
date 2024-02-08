@@ -4,7 +4,7 @@
 
 Hello! I'm Dawid.
 
-I graduate Full stack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
+I graduate Fullstack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
 
 Through the course, I have gained solid foundations in both front-end and back-end development. Now, I aim to continue my coding journey, constantly deepening my knowledge and skills. I am not afraid of challenges and always strive to excel in what I do.
 
@@ -14,5 +14,5 @@ I am open to collaboration and ready to participate in exciting projects that wi
 
 ### Languages
 
-![JavaScript]
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&href=https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![TypeScript]
