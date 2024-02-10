@@ -24,4 +24,6 @@ I am open to collaboration and ready to participate in exciting projects that wi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wierza&show_icons=true&locale=en" alt="wierza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wierza&" alt="wierza" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wierza&" alt="wierza" /></p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=wierza&label=Profile%20views&color=0e75b6&style=flat" alt="wierza" /> </p>
