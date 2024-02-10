@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">I graduated Fullstack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
+<h1 align=>Dawid Wierzycki - Fullstack Developer</h1>
+<h3>Hello! I'm Dawid
+I graduated Fullstack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
 
 Through the course, I have gained solid foundations in both front-end and back-end development. Now, I aim to continue my coding journey, constantly deepening my knowledge and skills. I am not afraid of challenges and always strive to excel in what I do.
 
