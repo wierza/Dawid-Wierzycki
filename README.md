@@ -1,7 +1,5 @@
 # Dawid Wierzycki - Junior Fullstack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dawid-wierzycki)
-
 ## About me
 
 Hello! I'm Dawid.
