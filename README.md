@@ -9,7 +9,7 @@
 👋 Hello! I'm Dawid.
 </h3>
 
-<img align="right" alt="GIF" src="https://github.com/wierza/wierza/blob/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/wierza/wierza/blob/main/code.gif" width="500" height="300" />
   
 <p  align="left"> I graduated Fullstack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
 
