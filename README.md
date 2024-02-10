@@ -6,7 +6,7 @@
 
 
 <h3 align="left">
-Hello! I'm Dawid.
+👋 Hello! I'm Dawid.
 </h3>
   
 <p> I graduated Fullstack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
