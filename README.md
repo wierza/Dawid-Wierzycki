@@ -17,7 +17,7 @@ Through the course, I have gained solid foundations in both front-end and back-e
 
 I am open to collaboration and ready to participate in exciting projects that will allow me to grow as a developer. Feel free to check out my projects on GitHub and reach out for potential callaboration! </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">🈯️ Languages:</h3>
 
 
 
