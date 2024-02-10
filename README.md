@@ -1,4 +1,4 @@
-<h1 align="left">Dawid Wierzycki - Fullstack Developer</h1> <a href="https://linkedin.com/in/www.linkedin.com/in/dawid-wierzycki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dawid-wierzycki" height="30" width="40" /></a>
+<h1 align="left">Dawid Wierzycki - Fullstack Developer <a href="https://linkedin.com/in/www.linkedin.com/in/dawid-wierzycki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dawid-wierzycki" height="30" width="40" /></a> </h1>
 
 <h3 align="left">
 Hello! I'm Dawid.
