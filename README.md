@@ -30,8 +30,6 @@ I am open to collaboration and ready to participate in exciting projects that wi
 ### Tools
 
 
-## GitHub Stats
-
 
 
 <p align="right">
