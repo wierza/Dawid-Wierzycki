@@ -1,8 +1,9 @@
-<h1 align="left">Dawid Wierzycki - Fullstack Developer
+<h1 align="left">Dawid Wierzycki - Fullstack Developer</h1>
+
 <div>
   <a href="https://linkedin.com/in/www.linkedin.com/in/dawid-wierzycki" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="25" margin-top="5" alt="linkedin logo"  /></a>
 </div>
-</h1>
+
 
 <h3 align="left">
 Hello! I'm Dawid.
@@ -13,10 +14,6 @@ Hello! I'm Dawid.
 Through the course, I have gained solid foundations in both front-end and back-end development. Now, I aim to continue my coding journey, constantly deepening my knowledge and skills. I am not afraid of challenges and always strive to excel in what I do.
 
 I am open to collaboration and ready to participate in exciting projects that will allow me to grow as a developer. Feel free to check out my projects on GitHub and reach out for potential callaboration! </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wierza&label=Profile%20views&color=0e75b6&style=flat" alt="wierza" /> </p>
-
-- 📫 How to reach me **dawid@wierzycki.pl**
 
 <h3 align="left">Languages:</h3>
 
