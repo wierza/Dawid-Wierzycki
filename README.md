@@ -1,7 +1,7 @@
-<h1 align="left">Dawid Wierzycki - Fullstack Developer</h1>
+<h1 align="center">Dawid Wierzycki - Fullstack Developer</h1>
 
-<div>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/dawid-wierzycki" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="25" margin-top="5" alt="linkedin logo"  /></a>
+<div align="center"> 
+  <a href="https://linkedin.com/in/www.linkedin.com/in/dawid-wierzycki" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" margin-top="5" alt="linkedin logo"  /></a>
 </div>
 
 
