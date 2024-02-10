@@ -8,14 +8,14 @@
 <h3 align="left">
 👋 Hello! I'm Dawid.
 </h3>
+
+<img align="right" alt="GIF" src="https://github.com/wierza/wierza/blob/main/code.gif" width="500" height="320" />
   
 <p  align="left"> I graduated Fullstack Developer bootcamp. I have a passion for programming and new technologies. My heart beats for JavaScript and React – these technologies have allowed me to create dynamic and interactive web applications.
 
 Through the course, I have gained solid foundations in both front-end and back-end development. Now, I aim to continue my coding journey, constantly deepening my knowledge and skills. I am not afraid of challenges and always strive to excel in what I do.
 
 I am open to collaboration and ready to participate in exciting projects that will allow me to grow as a developer. Feel free to check out my projects on GitHub and reach out for potential callaboration! </p>
-
-<img align="right" alt="GIF" src="" width="500" height="320" />
 
 <h3 align="left">Languages:</h3>
 
