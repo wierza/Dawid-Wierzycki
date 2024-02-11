@@ -21,14 +21,13 @@ I am open to collaboration and ready to participate in exciting projects that wi
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,sass,bootstrap,jest)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/wierza/wierza/output/snake.svg" alt="Snake animation" />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,webpack,postman,netlify,vscode)](https://skillicons.dev)
 
 <h3 align="left">🔥 My stats:</h3>
 
