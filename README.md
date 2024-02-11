@@ -17,7 +17,9 @@ Through the course, I have gained solid foundations in both front-end and back-e
 
 I am open to collaboration and ready to participate in exciting projects that will allow me to grow as a developer. Feel free to check out my projects on GitHub and reach out for potential callaboration! </p>
 
-<h3 align="left">🈯️ Languages:</h3>
+<h3 align="left">🛠️ Languages an tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
