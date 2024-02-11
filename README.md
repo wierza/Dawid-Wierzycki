@@ -26,6 +26,8 @@ I am open to collaboration and ready to participate in exciting projects that wi
   <img width="12" />
 </div>
 
+<img src="https://raw.githubusercontent.com/wierza/wierza/output/snake.svg" alt="Snake animation" />
+
 <h3 align="left">🔥 My stats:</h3>
 
 <div align="center">
