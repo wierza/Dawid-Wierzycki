@@ -5,9 +5,7 @@
 </div>
 
 
-<h3 align="left">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8415F7&random=false&width=435&lines=%F0%9F%91%8B+Hello!+I'm+Dawid.;I+am+a+Junior+Fullstack+Developer)](https://git.io/typing-svg)
-</h3>
 
 <img align="right" alt="GIF" src="https://github.com/wierza/wierza/blob/main/code.gif" width="450" height="310" />
   
