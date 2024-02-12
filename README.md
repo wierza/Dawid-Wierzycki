@@ -1,4 +1,4 @@
-<h1 align="center">Dawid Wierzycki - Junior Fullstack Developer</h1>
+<h1 align="center">Dawid Wierzycki - Junior Full Stack Developer</h1>
 
 <div align="center"> 
   <a href="https://linkedin.com/in/www.linkedin.com/in/dawid-wierzycki" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" margin-top="5" alt="linkedin logo"  /></a>
